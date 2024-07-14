@@ -9,7 +9,7 @@ workspace "RealEngine"
     }
 
 -- Variable for Output Directory - Will generate debug windows x64
-    -- cfg.buildcf = whether it is debug/release
+    -- cfg.buildcfg = whether it is debug/release
     -- cfg.system = Windows/Mac or something
     -- cfg.architecture x64 or something
 
